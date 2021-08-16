@@ -61,3 +61,16 @@ h1#spitzkennel{
 
 
 /*Header+nav fim*/
+/*main*/
+.bloco-b{
+    background-color: white;
+    margin: 50px;
+    padding: 50px;
+}
+div.bloco-b > p {
+    max-width: 42em;
+    padding: 10px;
+    border-style: solid;
+    border-color: var(--c05); text-align: center;
+    
+}
