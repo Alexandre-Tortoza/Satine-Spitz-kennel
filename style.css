@@ -17,13 +17,15 @@
     box-sizing: border-box;
 }
 
+
+/* Conteudo do cabecalho */
+
 body{
     margin: 0px;
     font-size: 1rem;
     line-height:1.5;
     overflow-x: hidden;
 }
-
 .c-header{
     height: 100vh;
     display: flex;
@@ -59,11 +61,32 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #e65c00;
+    background-color: var(--c04);
     z-index: 1;
-    opacity: 0.50;
+    opacity: 0.80;
 }
 
 .header-content{
     z-index: 2;
 }
+
+header h1 {
+    font-size: 4em;
+    font-family: ;
+    color: var(--c05);
+}
+
+header p {
+    font-size: 0.8em;
+}
+/**/
+
+/*Body*/
+
+
+.sec-w{
+   
+    text-align: center;
+    margin: 4em;
+}
+
