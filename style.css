@@ -61,7 +61,7 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    background-color: var(--c04);
+    background-color:black;
     z-index: 1;
     opacity: 0.80;
 }
@@ -69,7 +69,10 @@ body{
 .header-content{
     z-index: 2;
 }
-
+*{
+    margin: 0;
+    padding: 0;
+}
 header h1 {
     font-size: 4em;
     font-family: ;
@@ -90,3 +93,24 @@ header p {
     margin: 4em;
 }
 
+.sec-w .container{
+    padding-top: 20px;
+}
+
+
+.sec-b{
+
+    background-color: var(--c04);
+    padding: 20px;
+    color: white;
+    margin: 4em;
+    border-radius: 8px;
+}
+
+
+
+footer{
+    background-color: var(--c05);
+    min-height: 5px; 
+    opacity: 0.8;
+}
