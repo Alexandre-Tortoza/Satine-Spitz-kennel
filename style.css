@@ -17,7 +17,6 @@
     box-sizing: border-box;
 }
 
-
 /* Conteudo do cabecalho */
 
 body{
@@ -68,11 +67,9 @@ body{
 
 .header-content{
     z-index: 2;
+    margin: auto;
 }
-*{
-    margin: 0;
-    padding: 0;
-}
+
 header h1 {
     font-size: 4em;
     font-family: ;
@@ -80,7 +77,25 @@ header h1 {
 }
 
 header p {
-    font-size: 0.8em;
+    
+}
+header a{
+    
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: var(--c05);
+}
+
+header a:hover{
+    background-color: var(--c05);
+    color: white;
+    border-style: none;
+    border-color: white;
+    transition: 1s;
 }
 /**/
 
@@ -107,6 +122,10 @@ header p {
     border-radius: 8px;
 }
 
+.sec-b h2{
+    color: #E65C00;
+    text-align: center;
+}
 
 
 footer{
