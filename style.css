@@ -14,9 +14,56 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
+body{
+    margin: 0px;
+    font-size: 1rem;
+    line-height:1.5;
+    overflow-x: hidden;
+}
 
-  
-  
-  
+.c-header{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+     color: white;
+}
+
+.container{
+    max-width: 960px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: auto;
+    text-align: center;
+
+}
+.fullscreen-c-wrap{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.fullscreen-c-wrap img{
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.header-overlay{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #e65c00;
+    z-index: 1;
+    opacity: 0.50;
+}
+
+.header-content{
+    z-index: 2;
+}
