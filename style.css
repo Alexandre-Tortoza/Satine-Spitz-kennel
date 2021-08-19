@@ -162,3 +162,9 @@ footer{
 .col-sm{
     margin-top: 2.5em;
 }
+
+hr{
+    max-width: 20em;
+  }
+
+  section h3{ color: var(--c05);}
