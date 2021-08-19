@@ -1,0 +1,30 @@
+:root{
+    --c01:#483C32;
+    --c02:#54463A;
+    --c03:#332A23;
+    --c04:#110e0c;
+    --c05:#E65C00;
+} 
+
+
+
+main{
+    padding-top: 200px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+
+main a{
+    color: var(--c05);
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 100px;
+   
+
+}
+img{
+    max-width: 4em;
+    max-height: 4em;
+}
