@@ -124,6 +124,7 @@ header a:hover{
 .sec-b h2{
     color: #E65C00;
     text-align: center;
+    font-size: 3em;
 }
 
 
@@ -133,7 +134,7 @@ footer{
     opacity: 0.8;
 }
 
-.sec-b a{
+.sec-b a.botn{
    
     text-decoration: none;
     font-weight: bolder;
@@ -146,7 +147,7 @@ footer{
 }
 
 
-.sec-b a:hover{
+.sec-b a.botn:hover{
     background-color: var(--c05);
     color: white;
     border-style: none;
