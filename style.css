@@ -112,15 +112,17 @@ header a:hover{
 
 
 .sec-b{
-
+    text-align: center;
     background-color: var(--c04);
     padding: 20px;
     color: white;
-    margin: 4em;
-    border-radius: 8px;
+    margin: auto;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.445);
 }
 
+.sec-b img{
+    max-width: 20em;
+}
 .sec-b h2{
     color: #E65C00;
     text-align: center;
