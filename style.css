@@ -121,7 +121,8 @@ header a:hover{
 }
 
 .sec-b img{
-    max-width: 20em;
+    max-width: 18em;
+    margin-top: .3em;
 }
 .sec-b h2{
     color: #E65C00;
@@ -155,6 +156,7 @@ footer{
     border-color: white;
     transition: 1s;
 }
+
 
 .sec-w .col-sm img{
     max-width: 4em;
