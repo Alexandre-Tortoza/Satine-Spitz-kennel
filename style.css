@@ -103,7 +103,7 @@ header a:hover{
 .sec-w{
    
     text-align: center;
-    margin: 4em;
+    margin: 5%;
 }
 
 .sec-w .container{
@@ -121,7 +121,8 @@ header a:hover{
 }
 
 .sec-b img{
-    max-width: 18em;
+    max-width: 20vw;
+    min-width: 12em;
     margin-top: .3em;
 }
 .sec-b h2{
@@ -171,3 +172,24 @@ hr{
   }
 
   section h3{ color: var(--c05);}
+
+  div.video{
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 55%;
+    position: relative;
+   
+  }
+
+  div.video > iframe{
+      position: absolute;
+      top:5% ;
+      left:5% ;
+      width: 90%;
+      height:90% ;
+  }
+
+  #borda{
+    border-radius: 15px;
+  }
+

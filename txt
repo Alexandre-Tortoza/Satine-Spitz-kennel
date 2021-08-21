@@ -30,3 +30,27 @@ filhotes com atestado de saude pedrigree e vacina inportada
 
 
 intagram tik tok e facebook
+
+
+
+
+<div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <h3>Sobre o Spitz</h3>
+            <p>Essa raça possui diversos aspectos que o caracteriza como excelentes cães de companhia, são muito dóceis e adoram estar perto de seu tutor. Por causa do seu tamanho, é uma raça que se adapta muito bem a apartamentos, mas é preciso considerar que esse cachorro também é um ótimo guardião  e possui a tendência a  latir ao notar qualquer movimentação diferente. 
+            </p>
+          </div>
+          <div class="col-sm">
+            <h3>O canil</h3>
+
+            <p>O Maison Satine conta com 28 anos de experiência na criação de cães , apaixonados pelo Spitz alemão, nossa missão é a busca íntegra pelo melhoramento genético de nossos exemplares.Tal empenho, nos torna capazes de oferecer o melhor aos nossos clientes disponibilizando filhotes saudáveis e felizes com vacinas em dia e Pedigree.
+            </p>
+
+          </div>
+         
+        </div>
+      </div>
+
+
+
