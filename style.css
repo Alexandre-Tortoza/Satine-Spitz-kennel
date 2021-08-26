@@ -194,7 +194,13 @@ hr{
   }
 
 
-  #spitzalemaoanao #spitzalemao #spitzalemaobrasil #pomeranian #pomeranianworld #luludapomeraniaanão #luludapomerânia #luludapomeraniabrasil #spitzbrasil #spitzdog #doglovers #spitzcuritiba #criadorresponsavel #criandocomamor #criandocomapego #criaçãoéticaehumanizada #maisonsatine 
+  div#comoFunciona a{
+      text-decoration: none;
+      color: black;
+  }
 
-
-
+  div#comoFunciona a:hover{
+      color: var(--c05);
+      transition: .5s;
+      back
+  }
